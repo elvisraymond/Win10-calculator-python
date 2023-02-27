@@ -3,7 +3,7 @@
 Example script for Calculator on Windows 10
 
 Requirements:
-  - Windows 10
+  - OS Windows 10
   - pywinauto 0.6.1+ (install it by typing in the terminal : pip install pywinauto)
 
 Win10 version of Calculator is very specific. Few different processes (!)
